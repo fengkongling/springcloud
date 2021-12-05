@@ -1,0 +1,11 @@
+{
+  "properties": [
+    {
+      "name": "youyu.basePackage",
+      "type": "java.lang.String",
+      "sourceType": "com.flt.eureka_feign_client.config.MetaConfig",
+      "defaultValue": "/",
+      "description": "启用 YouYu FeignClient 配置."
+    }
+  ]
+}
